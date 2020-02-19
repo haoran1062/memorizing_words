@@ -1,0 +1,8 @@
+emperor,皇帝;君主
+exact,精准的;准确的
+traditional,传统的;惯例的;口传的;传说的
+lack,缺乏;不足;没有
+pardon,什么？请再说一遍;原谅;宽恕;赦免
+regent,摄政者;代国王统治者
+burgeon,迅速成长;发展
+argue,争论;说服
